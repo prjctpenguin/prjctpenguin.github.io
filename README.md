@@ -1,3 +1,3 @@
-# http://prjctpenguin.tk
+# http://projectpenguin.tk
 
 This Is A CPPS Source
